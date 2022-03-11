@@ -18,7 +18,7 @@ The main goal of this repository is to master JavaScript to an advance level.
 
 ## Content
 
-Markup : Bullet list Fundamentals of Javascript One
+- Fundamentals of Javascript One
 
 ## Website
 
