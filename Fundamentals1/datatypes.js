@@ -14,3 +14,13 @@ let children;
 /**
  * This is a multi-line comments.
  */
+
+console.log(typeof(children));
+
+//Declare a variable
+let varName = "Abante";
+
+//Modify a variable
+varName = "New Value";
+
+console.log(varName);
