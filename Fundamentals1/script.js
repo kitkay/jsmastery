@@ -1,3 +1,10 @@
+//Value and Variables Lesson.
 let js = 'amazing';
-    if (js === 'amazing')
-        alert(`JavaScript is FUN!`);
+
+console.log(40 + 8 + 23 - 10);
+
+console.log("Marvin");
+console.log(10);
+
+let firstName = "Marvin";
+console.log(firstName);
