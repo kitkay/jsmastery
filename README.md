@@ -8,4 +8,4 @@ Start of Vanilla Javascript Mastery.
 ## Website
 [Proctechtistor]
 (https://www.protechtistor.com/)
-[MIT](https://choosealicense.com/licenses/mit/)
+[Proctechtistor](https://choosealicense.com/licenses/mit/)
