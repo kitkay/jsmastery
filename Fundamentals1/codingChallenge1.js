@@ -25,19 +25,14 @@ let mass, height;
 //Define mark and john variables.
 let markHeight, markMass, johnHeight, johnMass, markHigherBMI = true;
 
-//BMI = (mass / height ** 2) = (mass / (height * height);
-const BMI = (mass / height ** 2);
-
 //Set Data
 markMass = 78;
 markHeight = 1.69;
 markBMI = (markMass / (markHeight ** 2));
-
 johnMass = 92;
 johnHeight = 1.95;
 johnBMI = (johnMass / (johnHeight ** 2));
+markHigherBMI = markBMI > johnBMI;
 
 console.log('Mark\'s BMI: [' + markBMI + '] \n', 'John\'s BMI: [' + johnBMI + '] \n');
-
-markHigherBMI = markBMI < johnBMI;
 console.log('Mark has greater BMI: ' + markHigherBMI);
