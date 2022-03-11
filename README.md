@@ -1,4 +1,4 @@
-# Vanilla Javascript Mastery
+# Vanilla Javascript Mastery 🚀
 
 Start of Vanilla Javascript Mastery using ES6++ considered as modern Javascript.
 
@@ -13,6 +13,12 @@ OBJECT-ORIENTED means Storingall kinds of data.
 MULIT-PARADIGM means it could be used in different kinds of programming.
 
 ## Practicing Vanilla Javascript for Mastery.
+
+The main goal of this repository is to master JavaScript to an advance level.
+
+## Content
+
+Markup : Bullet list Fundamentals of Javascript One
 
 ## Website
 
