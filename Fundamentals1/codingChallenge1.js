@@ -26,11 +26,11 @@ let mass, height;
 let markHeight, markMass, johnHeight, johnMass, markHigherBMI = true;
 
 //Set Data
-markMass = 78;
-markHeight = 1.69;
+markMass = 95;
+markHeight = 1.88;
 markBMI = (markMass / (markHeight ** 2));
-johnMass = 92;
-johnHeight = 1.95;
+johnMass = 85;
+johnHeight = 1.76;
 johnBMI = (johnMass / (johnHeight ** 2));
 markHigherBMI = markBMI > johnBMI;
 
