@@ -10,6 +10,8 @@ HIGH-LEVEL means we need NOT have to worry about complex stuff like memory manag
 
 OBJECT-ORIENTED means Storingall kinds of data.
 
+MULIT-PARADIGM means it could be used in different kinds of programming.
+
 ## Practicing Vanilla Javascript for Mastery.
 
 ## Website
