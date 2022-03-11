@@ -1,6 +1,6 @@
 # Vanilla Javascript Mastery
 
-Start of Vanilla Javascript Mastery.
+Start of Vanilla Javascript Mastery using ES6++ considered as modern Javascript.
 
 ## JavaScript Meaning
 
